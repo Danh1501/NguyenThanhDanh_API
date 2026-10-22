@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+artifacts/
+github-backend-output/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Per-machine configuration and secrets
+appsettings.json
+appsettings.*.json
+!appsettings.example.json
+
+# Logs and temporary files
+*.log
+*.tmp
